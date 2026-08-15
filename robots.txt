@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-o2q13j.radarsatu88.shop/sitemap.xml
